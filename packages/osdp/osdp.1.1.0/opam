@@ -28,6 +28,7 @@ the solver CSDP. It will also be compiled with SDPA and Mosek support
 if they can be found in the PATH."""
 url {
   src:
-    "https://cavale.enseeiht.fr/osdp/osdp-1.1.0.tgz"
-  checksum: "sha512=6d56d7df3c0beed10e86807beb0783db5f8b7b1fd4f054394b9158081f96b8f279f2ef91066783e48e7e97accf50c28b6c2e22ede7db5c3cef0fe8f1222144a1"
+    "https://github.com/Embedded-SW-VnV/osdp/archive/refs/tags/v1.1.0.tar.gz"
+  checksum: "md5=88f17ea57b6e601009d8a65bd80db54e"
+  # curl -L archive | md5sum
 }
